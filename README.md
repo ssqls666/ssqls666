@@ -4,10 +4,8 @@
 
 - ✨出生于2009/02✨
 - 📍广东南海
-- 🖥️资深垃圾佬
-- 🌐WeChat:ssqls666
 - 🛩️Telegram:ssqls1337
-- ✉:ssqls@foxmail.com
+- ✉:ssqls1337@gmail.com
 - 🐧:3148912176
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssqls666)](https://github.com/anuraghazra/github-readme-stats)
